@@ -35,4 +35,16 @@ Few of the properties which we are using in our project are as follows -
 5.	Eigenvector Centrality: It is a measure of the influence of a node in a network. It assigns relative scores to all nodes in the network based on the concept that connections to
 high-scoring nodes contribute more to the score of the node in question than equal connections to low-scoring nodes.
 
-## Results
+## Steps
+
+All analysis and topology measurements were performed on STINGER and GEPHI (A graph analysis tool)
+
+Information about STINGER can be found at https://github.com/stingergraph/stinger
+
+graphAnalysis.gephi can be used to visualize the reported results inside the GEPHI environment
+
+STINGER results can be visualized at localhost:8008
+
+GEPHI can be installed directly from https://gephi.org/
+
+![](got_graph.gif)
